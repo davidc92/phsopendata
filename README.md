@@ -1,4 +1,4 @@
-
+![example workflow](https://github.com/davidc92/phsopendata/actions/workflows/r.yml/badge.svg)
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 phsopendata
 ===========
